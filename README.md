@@ -5,3 +5,7 @@
 
 # Mohammad Heriyanto's Kerja Mandiri Terpantau (mh kermantau)
 This project explains about my independent study at Physics, ITB. You can acces my pre-release article [here](https://drive.google.com/file/d/0B8qv7YXSjDGxYTJNNGtNUFQzUzQ/view). 
+
+<p align="center">
+<img src="https://github.com/mheriyanto/mh_kermantau/blob/master/docs/cover.PNG" width="70%">
+</p>
