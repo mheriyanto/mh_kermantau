@@ -9,3 +9,18 @@ This project explains about my independent study at Physics, ITB. You can acces 
 <p align="center">
 <img src="https://github.com/mheriyanto/mh_kermantau/blob/master/docs/cover.PNG" width="70%">
 </p>
+
+### Results
+
+<ins>**Simulated Annealing (SA) for finding earthquake epicenter**</ins>
+
+<p align="center">
+<img src="https://github.com/mheriyanto/mh_kermantau/blob/master/docs/sa-episenter.png" width="100%">
+</p>
+
+<ins>**Very Fast Simulated Annealing (VFSA) for finding earthquake epicenter**</ins>
+
+<p align="center">
+<img src="https://github.com/mheriyanto/mh_kermantau/blob/master/docs/vfsa-episenter.png" width="100%">
+</p>
+
